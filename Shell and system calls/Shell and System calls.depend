@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1507775327 source:/home/aaa/Desktop/os/Lab 1/Shell and System calls/commands.c
+	"commands.h"
+	"command_parser.h"
+	"variables.h"
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1507414007 /home/aaa/Desktop/os/Lab 1/Shell and System calls/commands.h
+
+1507782299 source:/home/aaa/Desktop/os/Lab 1/Shell and System calls/environment.c
+	"environment.h"
+	"command_parser.h"
+	"variables.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1507289034 /home/aaa/Desktop/os/Lab 1/Shell and System calls/environment.h
+
+1507782571 source:/home/aaa/Desktop/os/Lab 1/Shell and System calls/command_parser.c
+	"command_parser.h"
+	"environment.h"
+	"variables.h"
+	"commands.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507776822 /home/aaa/Desktop/os/Lab 1/Shell and System calls/command_parser.h
+	<stdbool.h>
+
+1507285628 source:/home/aaa/Desktop/os/Lab 1/Shell and System calls/file_processing.c
+	"file_processing.h"
+	"variables.h"
+
+1507280989 /home/aaa/Desktop/os/Lab 1/Shell and System calls/file_processing.h
+	<stdio.h>
+
+1507782508 source:/home/aaa/Desktop/os/Lab 1/Shell and System calls/main.c
+	"commands.h"
+	"command_parser.h"
+	"environment.h"
+	"file_processing.h"
+	"variables.h"
+	<unistd.h>
+	<signal.h>
+	<sys/wait.h>
+	<stdio.h>
+	<sys/types.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
+1507775992 source:/home/aaa/Desktop/os/Lab 1/Shell and System calls/variables.c
+	"variables.h"
+
+1507704096 /home/aaa/Desktop/os/Lab 1/Shell and System calls/variables.h
+
+1507936516 source:/home/aaa/Desktop/os/Lab 1/lab1-28/commands.c
+	"commands.h"
+	"command_parser.h"
+	"variables.h"
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<dirent.h>
+
+1507935712 /home/aaa/Desktop/os/Lab 1/lab1-28/commands.h
+
+1507787131 /home/aaa/Desktop/os/Lab 1/lab1-28/command_parser.h
+	<stdbool.h>
+
+1507704096 /home/aaa/Desktop/os/Lab 1/lab1-28/variables.h
+
+1507941174 source:/home/aaa/Desktop/os/Lab 1/lab1-28/environment.c
+	"environment.h"
+	"command_parser.h"
+	"variables.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1507289034 /home/aaa/Desktop/os/Lab 1/lab1-28/environment.h
+
+1507285628 source:/home/aaa/Desktop/os/Lab 1/lab1-28/file_processing.c
+	"file_processing.h"
+	"variables.h"
+
+1507280989 /home/aaa/Desktop/os/Lab 1/lab1-28/file_processing.h
+	<stdio.h>
+
+1507941087 source:/home/aaa/Desktop/os/Lab 1/lab1-28/command_parser.c
+	"command_parser.h"
+	"environment.h"
+	"variables.h"
+	"commands.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507941048 source:/home/aaa/Desktop/os/Lab 1/lab1-28/main.c
+	"commands.h"
+	"command_parser.h"
+	"environment.h"
+	"file_processing.h"
+	"variables.h"
+	<unistd.h>
+	<signal.h>
+	<sys/wait.h>
+	<stdio.h>
+	<sys/types.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
+1507936524 source:/home/aaa/Desktop/os/Lab 1/lab1-28/variables.c
+	"variables.h"
+
